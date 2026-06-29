@@ -14,18 +14,12 @@ void main() async {
 
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
-
   @override
-  Widget build(BuildContext context) {
-    return const MaterialApp(
-      home: MapScreen(),
-    );
-  }
+  Widget build(BuildContext context) => const MaterialApp(home: MapScreen());
 }
 
 class MapScreen extends StatelessWidget {
   const MapScreen({Key? key}) : super(key: key);
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
