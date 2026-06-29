@@ -7,7 +7,7 @@
 
         <meta-data
             android:name="com.yandex.android.maps.mapkit_api_key"
-            android:value="ef188492-1c1b-4ade-8c3f-af515537c7a2" />
+            android:value="d8ce1f42-8e60-45f0-b618-0266d07eb414" />
 
         <meta-data android:name="com.yandex.mapkit.log_level" android:value="verbose" />
 
